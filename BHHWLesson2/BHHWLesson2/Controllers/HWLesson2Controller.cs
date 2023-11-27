@@ -7,5 +7,9 @@ namespace BHHWLesson2.Controllers
     [ApiController]
     public class HWLesson2Controller : ControllerBase
     {
+        List<string> strings = new List<string>();
+        [HttpGet]
+
+
     }
 }
