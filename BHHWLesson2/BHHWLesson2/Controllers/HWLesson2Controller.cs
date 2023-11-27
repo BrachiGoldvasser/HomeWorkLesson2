@@ -8,7 +8,14 @@ namespace BHHWLesson2.Controllers
     public class HWLesson2Controller : ControllerBase
     {
         List<string> strings = new List<string>();
-        [HttpGet]
+        public void FillList()
+        {
+            strings.Add("Shoshi");
+            strings.Add("Brachi");
+            strings.Add("Dasi");
+        }
+
+      
 
 
     }
