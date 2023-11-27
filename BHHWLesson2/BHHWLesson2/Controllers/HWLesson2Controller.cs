@@ -14,6 +14,13 @@ namespace BHHWLesson2.Controllers
             strings.Add("Brachi");
             strings.Add("Dasi");
         }
+        [HttpPost]
+         
+        public string Add(string s) {
+            strings.Add(s);
+            return s;
+
+        }
 
       
 

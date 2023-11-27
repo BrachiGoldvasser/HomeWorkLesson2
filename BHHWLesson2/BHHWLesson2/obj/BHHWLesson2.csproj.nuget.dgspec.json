@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Git\\HomeWorkLesson2\\BHHWLesson2\\BHHWLesson2\\BHHWLesson2.csproj": {}
+    "H:\\גיט\\HomeWorkLesson2\\BHHWLesson2\\BHHWLesson2\\BHHWLesson2.csproj": {}
   },
   "projects": {
-    "H:\\Git\\HomeWorkLesson2\\BHHWLesson2\\BHHWLesson2\\BHHWLesson2.csproj": {
+    "H:\\גיט\\HomeWorkLesson2\\BHHWLesson2\\BHHWLesson2\\BHHWLesson2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Git\\HomeWorkLesson2\\BHHWLesson2\\BHHWLesson2\\BHHWLesson2.csproj",
+        "projectUniqueName": "H:\\גיט\\HomeWorkLesson2\\BHHWLesson2\\BHHWLesson2\\BHHWLesson2.csproj",
         "projectName": "BHHWLesson2",
-        "projectPath": "H:\\Git\\HomeWorkLesson2\\BHHWLesson2\\BHHWLesson2\\BHHWLesson2.csproj",
-        "packagesPath": "C:\\Users\\גולדוסר ברכה\\.nuget\\packages\\",
-        "outputPath": "H:\\Git\\HomeWorkLesson2\\BHHWLesson2\\BHHWLesson2\\obj\\",
+        "projectPath": "H:\\גיט\\HomeWorkLesson2\\BHHWLesson2\\BHHWLesson2\\BHHWLesson2.csproj",
+        "packagesPath": "C:\\Users\\מישקובסקי שושנה\\.nuget\\packages\\",
+        "outputPath": "H:\\גיט\\HomeWorkLesson2\\BHHWLesson2\\BHHWLesson2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\גולדוסר ברכה\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\מישקובסקי שושנה\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
