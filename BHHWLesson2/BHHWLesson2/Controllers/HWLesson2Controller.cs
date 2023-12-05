@@ -12,14 +12,13 @@ namespace BHHWLesson2.Controllers
         {
             strings.Add("Shoshi");
             strings.Add("Brachi");
-            strings.Add("Dasi");
+            strings.Add("Nechami");
         }
         [HttpPost]
          
         public string Add(string s) {
             strings.Add(s);
             return s;
-
         }
 
       
